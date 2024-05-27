@@ -1,0 +1,6 @@
+Índice
+Instalación
+Ejecución
+Problemas Enfrentados
+Contribuciones
+Licencia
